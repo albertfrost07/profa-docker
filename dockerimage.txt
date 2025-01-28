@@ -1,1 +1,4 @@
+#Imagen inicial
 albertfrost07/servidor
+#imagen actualizada
+albertfrost07/servidor2
